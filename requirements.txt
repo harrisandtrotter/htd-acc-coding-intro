@@ -2,3 +2,4 @@ jupyterlab
 pandas
 openpyxl
 plotly
+requests
