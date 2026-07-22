@@ -8,6 +8,7 @@ This repo is primarily Python-based and is intended as a shared resource for exp
 
 | Folder | Description |
 |--------|-------------|
+| `00_python_fundamentals` | Python basics — variables, lists, dicts, loops, functions; notebook + `.py` scripts ([cheat sheet](00_python_fundamentals/CHEATSHEET.md)) |
 | `01_intro_to_jupyter_and_pandas` | Introduction to Jupyter notebooks and data manipulation with pandas |
 | `02_intro_to_APIs` | Introduction to APIs — fetching exchange, blockchain, and price data programmatically |
 
