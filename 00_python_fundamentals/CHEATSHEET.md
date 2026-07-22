@@ -46,6 +46,21 @@ Quick definitions from session `00_python_fundamentals`. Keep this open while yo
 | `str(1.5)`        | Turn a number into text.                                |
 
 
+
+---
+
+## Arithmetic
+
+| Operator | Meaning |
+|----------|---------|
+| `+` `-` `*` `/` | Add, subtract, multiply, divide |
+| `//` | Divide, keep whole number only |
+| `%` | Remainder after division |
+| `**` | Power (e.g. `2 ** 3` is `8`) |
+| `total += x` | Same as `total = total + x` |
+
+Use `( )` for order: `(10 + 5) * 2` vs `10 + 5 * 2`.
+
 ---
 
 ## Collections
