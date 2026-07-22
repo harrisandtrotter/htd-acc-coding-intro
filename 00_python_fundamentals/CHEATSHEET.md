@@ -83,6 +83,10 @@ Quick definitions from session `00_python_fundamentals`. Keep this open while yo
 
 A comparison like `amount > 5000` **resolves to** a boolean (`True` or `False`).
 
+Combined conditions resolve in steps, e.g.
+`(10 > 5) and (9 == 9)` → `True and True` → `True`.
+With `and`, every part must be `True`. With `or`, one `True` is enough.
+
 ---
 
 ## Conditionals and loops
